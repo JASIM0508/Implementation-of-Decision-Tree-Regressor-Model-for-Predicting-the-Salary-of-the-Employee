@@ -56,7 +56,7 @@ print(r2)
 
 print(dt.predict([[5, 6]])[0])
 *\
-
+```
 ## Output:
 ### data.head():
 <img width="392" height="147" alt="image" src="https://github.com/user-attachments/assets/0adc1975-a7df-4d84-b62b-f827d8d22d1c" />
