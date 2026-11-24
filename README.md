@@ -66,10 +66,11 @@ print(dt.predict([[5, 6]])[0])
 <img width="297" height="100" alt="image" src="https://github.com/user-attachments/assets/82dfeccd-c014-4d96-a337-48837e3ca562" />
 
 ### data.head() for salary
-<img width="452" height="50" alt="image" src="https://github.com/user-attachments/assets/d8219678-60ca-47c8-a2ab-5b9a77ddc36b" />
+<img width="347" height="142" alt="image" src="https://github.com/user-attachments/assets/748f1ed9-364b-4795-a8f4-62dfd3b97ada" />
+
 
 ### MSE and r2 value:
-<img width="262" height="31" alt="image" src="https://github.com/user-attachments/assets/dab17573-3305-433f-ad10-084d05a445a4" />
+<img width="452" height="50" alt="image" src="https://github.com/user-attachments/assets/d8219678-60ca-47c8-a2ab-5b9a77ddc36b" />
 
 
 ### data prediction:
